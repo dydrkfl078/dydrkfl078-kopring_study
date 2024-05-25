@@ -5,156 +5,150 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c950da3-311f-4186-a01e-984807203718" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/data/ipads.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/data/navigations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/accessibility.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/accessibility_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/accessories.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/accessories_caption_memo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/accessories_caption_supports.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/accessories_caption_supports_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/accessories_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_adobe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_adobe_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_books.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_books_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_fantasian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_fantasian_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_goodnotes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_goodnotes_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_masterclass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/apps_masterclass_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ar_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ar_ipad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/buy-info-box.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/buy-info-engrave.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/buy-info-won.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/camera_edit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/camera_edit_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/camera_hardware.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/camera_hardware_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/camera_hardware_caption_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/camera_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/camera_headline_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/camera_video_mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/compare_ipad_10_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/compare_ipad_air.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/compare_ipad_mini.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/compare_ipad_pro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/display_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/display_headline_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/display_notes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/display_notes_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/display_shareplay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/display_shareplay_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/environment_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/header_apple.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/header_bag.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/header_close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/header_search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/hero_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/hero_headline_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/hero_ipad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/hero_ipad_caption_camera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/hero_ipad_caption_camera_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/hero_ipad_caption_chip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/hero_ipad_caption_storage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/hero_ipad_text.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipad-seo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipad_accessories.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipados_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipados_quick_note.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipados_quick_note_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipados_quick_note_caption_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipados_split_view.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipados_split_view_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipados_widgets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/ipados_widgets_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/path_apple.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/path_div.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/power_arcade.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/power_arcade_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/power_create.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/power_create_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/power_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/power_multiple_apps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/power_multiple_apps_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/privacy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/privacy_caption_apple_id.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/privacy_caption_touch_id.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/privacy_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/screenshot1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_apps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_back_camera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_battery.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_center_stage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_chip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_covers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_display.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_faster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_front_camera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_keyboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_lte.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_neural.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_notes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_pencil.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_scan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_true_tone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/sprite_wifi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/video-pause.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/video-play.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/wireless_facetime.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/wireless_facetime_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/wireless_files.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/wireless_files_caption.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/wireless_headline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/images/wireless_headline_mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/videos/center-stage.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/kotlin/practice_thymeleaf/kopring_prac1/KopringPrac1Application.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/data/ipads.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/data/navigations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/accessibility.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/accessibility_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/accessories.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/accessories_caption_memo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/accessories_caption_supports.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/accessories_caption_supports_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/accessories_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_adobe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_adobe_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_books.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_books_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_fantasian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_fantasian_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_goodnotes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_goodnotes_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_masterclass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/apps_masterclass_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ar_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ar_ipad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/buy-info-box.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/buy-info-engrave.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/buy-info-won.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/camera_edit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/camera_edit_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/camera_hardware.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/camera_hardware_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/camera_hardware_caption_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/camera_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/camera_headline_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/camera_video_mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/compare_ipad_10_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/compare_ipad_air.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/compare_ipad_mini.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/compare_ipad_pro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/display_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/display_headline_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/display_notes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/display_notes_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/display_shareplay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/display_shareplay_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/environment_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/header_apple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/header_bag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/header_close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/header_search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/hero_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/hero_headline_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/hero_ipad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/hero_ipad_caption_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/hero_ipad_caption_camera_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/hero_ipad_caption_chip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/hero_ipad_caption_storage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/hero_ipad_text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipad-seo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipad_accessories.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipados_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipados_quick_note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipados_quick_note_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipados_quick_note_caption_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipados_split_view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipados_split_view_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipados_widgets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/ipados_widgets_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/path_apple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/path_div.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/power_arcade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/power_arcade_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/power_create.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/power_create_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/power_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/power_multiple_apps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/power_multiple_apps_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/privacy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/privacy_caption_apple_id.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/privacy_caption_touch_id.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/privacy_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/screenshot1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_apps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_back_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_battery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_center_stage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_chip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_covers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_display.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_faster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_front_camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_keyboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_lte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_neural.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_notes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_pencil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_scan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_true_tone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/sprite_wifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/video-pause.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/video-play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/wireless_facetime.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/wireless_facetime_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/wireless_files.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/wireless_files_caption.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/wireless_headline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/images/wireless_headline_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/static/videos/center-stage.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/templates/test-mvc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/main/resources/templates/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-kopring/kopring_prac1/kopring_prac1/src/test/kotlin/practice_thymeleaf/kopring_prac1/KopringPrac1ApplicationTests.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kopring_prac1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/src/main/kotlin/com/example/study/StudyApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/src/test/kotlin/com/example/study/StudyApplicationTests.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +173,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
