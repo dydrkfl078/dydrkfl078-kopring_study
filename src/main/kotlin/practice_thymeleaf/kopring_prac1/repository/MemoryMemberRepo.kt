@@ -26,4 +26,9 @@ object MemoryMemberRepo : MemberRepo {
     override fun findAll(): List<Member> {
         return store.values.toList()
     }
+
+    fun clear(){
+        store.clear()
+        sequence = 0
+    }
 }

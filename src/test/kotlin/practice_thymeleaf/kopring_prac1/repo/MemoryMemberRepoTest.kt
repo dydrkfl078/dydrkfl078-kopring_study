@@ -1,12 +1,18 @@
-package practice_thymeleaf.kopring_prac1
+package practice_thymeleaf.kopring_prac1.repo
 
 
 import io.kotest.matchers.shouldBe
+import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
 import practice_thymeleaf.kopring_prac1.domain.Member
 import practice_thymeleaf.kopring_prac1.repository.MemoryMemberRepo
 
 internal class MemoryMemberRepoTest {
+
+    @BeforeEach
+    fun beforeEach() {
+        MemoryMemberRepo.clear()
+    }
 
     @Test
     fun save() {
