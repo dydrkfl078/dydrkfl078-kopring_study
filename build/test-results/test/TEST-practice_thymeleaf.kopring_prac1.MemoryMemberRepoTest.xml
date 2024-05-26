@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practice_thymeleaf.kopring_prac1.MemoryMemberRepoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-05-26T09:04:47" hostname="WIN-U9C7BM0APCT" time="0.021">
+  <properties/>
+  <testcase name="findAll()" classname="practice_thymeleaf.kopring_prac1.MemoryMemberRepoTest" time="0.014"/>
+  <testcase name="findByName()" classname="practice_thymeleaf.kopring_prac1.MemoryMemberRepoTest" time="0.001"/>
+  <testcase name="save()" classname="practice_thymeleaf.kopring_prac1.MemoryMemberRepoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
