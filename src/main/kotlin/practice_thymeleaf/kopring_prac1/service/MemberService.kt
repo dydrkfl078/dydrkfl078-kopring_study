@@ -5,7 +5,6 @@ import org.springframework.stereotype.Service
 import practice_thymeleaf.kopring_prac1.domain.Member
 import practice_thymeleaf.kopring_prac1.repository.MemoryMemberRepo
 
-@Service
 class MemberService(private val memoryMemberRepo: MemoryMemberRepo) {
 
     fun join(member : Member): Long {
