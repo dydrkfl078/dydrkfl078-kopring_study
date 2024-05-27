@@ -1,8 +1,10 @@
 package practice_thymeleaf.kopring_prac1.repository
 
+import org.springframework.stereotype.Repository
 import practice_thymeleaf.kopring_prac1.domain.Member
 
-object MemoryMemberRepo : MemberRepo {
+@Repository
+class MemoryMemberRepo : MemberRepo {
 
     private var store : HashMap<Long, Member> = HashMap()
     private var sequence = 0L

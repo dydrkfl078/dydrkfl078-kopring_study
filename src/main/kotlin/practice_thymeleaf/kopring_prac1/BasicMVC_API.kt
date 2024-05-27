@@ -1,4 +1,4 @@
-package practice_thymeleaf.kopring_prac1.controller
+package practice_thymeleaf.kopring_prac1
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

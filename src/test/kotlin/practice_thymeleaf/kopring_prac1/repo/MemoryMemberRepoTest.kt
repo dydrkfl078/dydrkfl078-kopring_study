@@ -9,9 +9,12 @@ import practice_thymeleaf.kopring_prac1.repository.MemoryMemberRepo
 
 internal class MemoryMemberRepoTest {
 
+    companion object {
+        val memoryMemberRepo = MemoryMemberRepo()
+    }
     @BeforeEach
     fun beforeEach() {
-        MemoryMemberRepo.clear()
+        memoryMemberRepo.clear()
     }
 
     @Test
@@ -20,11 +23,11 @@ internal class MemoryMemberRepoTest {
         val member1 = Member("member1")
         val member2 = Member("member2")
 
-        MemoryMemberRepo.save(member1)
-        MemoryMemberRepo.save(member2)
+        memoryMemberRepo.save(member1)
+        memoryMemberRepo.save(member2)
 
-        val member1Result = MemoryMemberRepo.findById(member1.id)?.name
-        val member2Result = MemoryMemberRepo.findById(member2.id)?.name
+        val member1Result = memoryMemberRepo.findById(member1.id)?.name
+        val member2Result = memoryMemberRepo.findById(member2.id)?.name
 
         member1Result shouldBe "member1"
         member2Result shouldBe "member2"
@@ -36,12 +39,12 @@ internal class MemoryMemberRepoTest {
         val member3 = Member("member3")
         val member4 = Member("member4")
 
-        MemoryMemberRepo.save(member3)
-        MemoryMemberRepo.save(member4)
+        memoryMemberRepo.save(member3)
+        memoryMemberRepo.save(member4)
 
-        val member3Result = MemoryMemberRepo.findByName("member3")?.id
-        val member4Result = MemoryMemberRepo.findByName("member4")?.id
-        val member5Result = MemoryMemberRepo.findByName("member5")?.id
+        val member3Result = memoryMemberRepo.findByName("member3")?.id
+        val member4Result = memoryMemberRepo.findByName("member4")?.id
+        val member5Result = memoryMemberRepo.findByName("member5")?.id
 
         member3Result shouldBe 1
         member4Result shouldBe 2
@@ -54,10 +57,10 @@ internal class MemoryMemberRepoTest {
         val member3 = Member("member3")
         val member4 = Member("member4")
 
-        MemoryMemberRepo.save(member3)
-        MemoryMemberRepo.save(member4)
+        memoryMemberRepo.save(member3)
+        memoryMemberRepo.save(member4)
 
-        val memberList = MemoryMemberRepo.findAll()
+        val memberList = memoryMemberRepo.findAll()
 
         memberList.size shouldBe 2
     }

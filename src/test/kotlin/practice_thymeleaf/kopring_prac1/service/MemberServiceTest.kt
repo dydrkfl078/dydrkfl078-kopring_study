@@ -10,28 +10,33 @@ import practice_thymeleaf.kopring_prac1.repository.MemoryMemberRepo
 
 class MemberServiceTest {
 
+    companion object {
+        val memoryMemberRepo = MemoryMemberRepo()
+    }
+
+
     @BeforeEach
     fun beforeEach() {
-        MemoryMemberRepo.clear()
+        memoryMemberRepo.clear()
     }
 
     @Test
     fun 회원가입() {
         // given
-        val service = MemberService()
+        val service = MemberService(memoryMemberRepo)
         val memberA = Member("memberA")
 
         // when
         service.join(memberA)
 
         // then
-        memberA.id shouldBe MemoryMemberRepo.findById(memberA.id)?.id
+        memberA.id shouldBe memoryMemberRepo.findById(memberA.id)?.id
     }
 
     @Test
     fun 모든맴버찾기() {
         // given
-        val service = MemberService()
+        val service = MemberService(memoryMemberRepo)
         val memberA = Member("memberA")
         val memberB = Member("memberB")
         val memberC = Member("memberC")
@@ -51,7 +56,7 @@ class MemberServiceTest {
     @Test
     fun ID로단일맴버찾기() {
         // given
-        val service = MemberService()
+        val service = MemberService(memoryMemberRepo)
         val memberA = Member("memberA")
         val memberB = Member("memberB")
         service.join(memberA)
