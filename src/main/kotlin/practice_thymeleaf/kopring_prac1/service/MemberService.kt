@@ -3,9 +3,10 @@ package practice_thymeleaf.kopring_prac1.service
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 import practice_thymeleaf.kopring_prac1.domain.Member
+import practice_thymeleaf.kopring_prac1.repository.MemberRepo
 import practice_thymeleaf.kopring_prac1.repository.MemoryMemberRepo
 
-class MemberService(private val memoryMemberRepo: MemoryMemberRepo) {
+class MemberService(private val memoryMemberRepo: MemberRepo) {
 
     fun join(member : Member): Long {
         memoryMemberRepo.findByName(member.name)?.let {
