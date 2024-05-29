@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="practice_thymeleaf.kopring_prac1.service.MemberServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-05-27T06:09:13" hostname="WIN-U9C7BM0APCT" time="0.019">
-  <properties/>
-  <testcase name="모든맴버찾기()" classname="practice_thymeleaf.kopring_prac1.service.MemberServiceTest" time="0.015"/>
-  <testcase name="ID로단일맴버찾기()" classname="practice_thymeleaf.kopring_prac1.service.MemberServiceTest" time="0.001"/>
-  <testcase name="회원가입()" classname="practice_thymeleaf.kopring_prac1.service.MemberServiceTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
