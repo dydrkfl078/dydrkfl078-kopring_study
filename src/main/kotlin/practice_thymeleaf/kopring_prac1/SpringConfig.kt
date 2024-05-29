@@ -1,16 +1,18 @@
 package practice_thymeleaf.kopring_prac1
 
+import jakarta.persistence.EntityManager
+import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
-import practice_thymeleaf.kopring_prac1.repository.JdbcMemberRepo
-import practice_thymeleaf.kopring_prac1.repository.JdbcTemplateMemberRepo
-import practice_thymeleaf.kopring_prac1.repository.MemberRepo
-import practice_thymeleaf.kopring_prac1.repository.MemoryMemberRepo
+import practice_thymeleaf.kopring_prac1.repository.*
 import practice_thymeleaf.kopring_prac1.service.MemberService
 import javax.sql.DataSource
 
 @Configuration
-class SpringConfig(private val dataSource: DataSource) {
+class SpringConfig(private val em: EntityManager) {
+
+    @Autowired
+    private lateinit var dataSource: DataSource
 
     @Bean
     fun memberService(): MemberService {
@@ -21,6 +23,7 @@ class SpringConfig(private val dataSource: DataSource) {
     fun MemberRepo(): MemberRepo {
 //        return MemoryMemberRepo()
 //        return JdbcMemberRepo(dataSource)
-        return JdbcTemplateMemberRepo(dataSource)
+//        return JdbcTemplateMemberRepo(dataSource)
+        return JpaMemberRepo(em)
     }
 }

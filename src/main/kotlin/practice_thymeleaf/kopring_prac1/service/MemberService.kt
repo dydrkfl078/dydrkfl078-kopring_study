@@ -2,10 +2,12 @@ package practice_thymeleaf.kopring_prac1.service
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
+import org.springframework.transaction.annotation.Transactional
 import practice_thymeleaf.kopring_prac1.domain.Member
 import practice_thymeleaf.kopring_prac1.repository.MemberRepo
 import practice_thymeleaf.kopring_prac1.repository.MemoryMemberRepo
 
+@Transactional
 class MemberService(private val memoryMemberRepo: MemberRepo) {
 
     fun join(member : Member): Long {

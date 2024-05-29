@@ -1,5 +1,12 @@
 package practice_thymeleaf.kopring_prac1.domain
 
-data class Member(val name:String) {
-    var id : Long = 0
+import jakarta.persistence.Entity
+import jakarta.persistence.GeneratedValue
+import jakarta.persistence.GenerationType
+import jakarta.persistence.Id
+
+@Entity
+class Member(var name:String = "") {
+    @Id @GeneratedValue(strategy = GenerationType.IDENTITY) var id : Long = 0
+
 }
